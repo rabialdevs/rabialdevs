@@ -1,22 +1,11 @@
-### Hi there 👋
-[![](https://visitcount.itsvg.in/api?id=rabialdevs&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">Hey Everyone 👋, I'm Rabial Hosen</h1>
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner-3.png"> </div>
+<h3 align="center">A passionate developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<!--
-**rabialdevs/rabialdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabialdevs&label=Profile%20views&color=0e75b6&style=flat" alt="rabialdevs" /> </p>
 # 💫 About Me:
-🛠   I’m currently working with JS, TS, AWS, etc.<br>🚀   I’m currently exploring DevOps, Cloud, etc.<br>💬   Ask me anything here! I am happy to help.<br>👾   Fun fact: Equal is Not Always Equal in JS.<br>📫   Reach me out: rabialhosen404@gmail.com.<br>My Absolute Favorites:<br>💻   I love exploring new technologies and building cool stuff.<br>📰   Reading, writing & watching Tech Stuff whenever possible.
+🛠   I’m currently working on MERN Stack and Cloud Computing<br>🚀   I’m currently exploring DevOps, Cloud, etc.<br>💬  Ask me about Node.js, React, Postgresql, MongoDB Etc.<br>👾   Fun fact: Equal is Not Always Equal in JS.<br>📫   Reach me out: rabialhosen404@gmail.com.<br>My Absolute Favorites:<br>💻   I love exploring new technologies and building cool stuff.<br>📰   Reading, writing & watching Tech Stuff whenever possible.
 
 
 ## 🌐 Socials:
@@ -28,9 +17,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=rabialdevs&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rabialdevs&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabialdevs&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<h2 align="left">Coding Activity</h2>
 
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
 
 ### ✍️ Random Dev Quote
