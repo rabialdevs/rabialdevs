@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=rabialdevs&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rabialdevs&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rabialdevs&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="left">Coding Activity</h2>
+
+> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
